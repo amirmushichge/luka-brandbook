@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.1",
+  "document_version": "1.3.2",
+  "status": "concept_brand_public_reference",
+  "brand": {
+    "name": "Luka",
+    "descriptor": "Coffee · Mostar",
+    "tagline": "A harbour for curious minds.",
+    "location": "Mostar, Bosnia and Herzegovina",
+    "positioning": "A quiet café workspace for local creatives, remote workers and curious visitors.",
+    "audience": [
+      "local creatives",
+      "remote workers",
+      "curious visitors"
+    ]
+  },
+  "visual_system": {
+    "colours": {
+      "espresso": "#1E1208",
+      "terracotta": "#C4724A",
+      "limestone_sand": "#D9C4A8",
+      "neretva_sage": "#7A8C6E",
+      "linen_cream": "#F5EFE3"
+    },
+    "typography": {
+      "display": "Cormorant Garamond",
+      "body": "DM Sans"
+    },
+    "logos": [
+      "luka-logo-full.svg",
+      "luka-logo-full-cream.svg",
+      "luka-wordmark.svg",
+      "luka-wordmark-cream.svg",
+      "luka-symbol.svg",
+      "luka-bug.svg"
+    ],
+    "transparent_logo_references": [
+      "luka-logo-full-reference.png",
+      "luka-logo-full-cream-reference.png",
+      "luka-wordmark-reference.png",
+      "luka-wordmark-cream-reference.png",
+      "luka-symbol-reference.png"
+    ],
+    "photography": [
+      "natural directional light",
+      "tactile surfaces",
+      "candid people",
+      "warm restrained grading"
+    ]
+  },
+  "voice": {
+    "attributes": [
+      "warm",
+      "direct",
+      "specific",
+      "quietly confident"
+    ],
+    "avoid": [
+      "unsupported claims",
+      "generic superlatives",
+      "exclamation marks",
+      "invented facts"
+    ]
+  },
+  "fact_policy": "Use only approved facts supplied with each task; return unknowns for human review.",
+  "ai_native_workflow": [
+    "brand_packet",
+    "task_contract",
+    "blank_scene_generation",
+    "logo_integrity",
+    "acceptance_gates",
+    "release_record"
+  ],
+  "release_policy": "A named human reviewer approves every public output.",
+  "attribution": {
+    "author": "Amir Mušić",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/amirmushichge/luka-brandbook"
+  }
+}

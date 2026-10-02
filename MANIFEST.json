@@ -1,0 +1,177 @@
+{
+  "version": "1.3.2",
+  "files": {
+    ".gitignore": {
+      "bytes": 22,
+      "sha256": "51c21ea08a4e9b4d68cd7e01985caeb61840d9abbb3ccef8336e61790975a3d3"
+    },
+    ".nojekyll": {
+      "bytes": 2,
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    "assets/hero.png": {
+      "bytes": 629618,
+      "sha256": "76308ad48d88fe4428e8f3b20de6ef28069cbf10fba9596f78c9e4d4e4bfdfa8"
+    },
+    "assets/IMG_APP_BAG-v2.webp": {
+      "bytes": 220104,
+      "sha256": "964730290e9b98f68a34ea4e793755d67f95725d7c0ca27172c03cf267b29acd"
+    },
+    "assets/IMG_APP_CARD-v2.webp": {
+      "bytes": 217006,
+      "sha256": "1e0ac491dd363a2eaa6b417dade1f1ed65e4e3130c6b17b94c33b9f496a31fd1"
+    },
+    "assets/IMG_APP_CUP-v2.webp": {
+      "bytes": 218138,
+      "sha256": "2efd99510e1e18a30433764350fc4e4f27686cd417107e3810f99973824031e8"
+    },
+    "assets/IMG_APP_SOCIAL-v2.webp": {
+      "bytes": 278414,
+      "sha256": "32867f3c1166191dafd4a6531d91166310bacde2e58635f0250a18d397ba2134"
+    },
+    "assets/IMG_MOCKUP_BAG-v2.webp": {
+      "bytes": 138290,
+      "sha256": "fceae39cf3bedf3a5a19424dae6968b1151f8b594ca19db25856aec8b90680ab"
+    },
+    "assets/IMG_MOCKUP_CARD-v2.webp": {
+      "bytes": 212640,
+      "sha256": "d09c75b95f666174d9f0f8c7279fe5a902d5149b078e0c7c4129160bb5502c17"
+    },
+    "assets/IMG_MOCKUP_CUP-v2.webp": {
+      "bytes": 83710,
+      "sha256": "60bce7404f3c5de303457773547bb8fff5f90d06992fbe1169cd089561abf826"
+    },
+    "assets/IMG_MOCKUP_INTERIOR-v2.webp": {
+      "bytes": 316150,
+      "sha256": "88228152adee4f9953420a0f65c591345f7e8507b86babfa056e483b7d015e70"
+    },
+    "assets/IMG_MOCKUP_SIGN-v2.webp": {
+      "bytes": 303112,
+      "sha256": "26630bfc9736c2f8c6f840de3a624a74bba0b4dbde245727581bb511f10b5a59"
+    },
+    "assets/IMG_MOCKUP_SOCIAL-v2.webp": {
+      "bytes": 201396,
+      "sha256": "441b6b09ea169de37f9e6d18bb78f9479ec7fcfc7f4fe6629a8469efab66079d"
+    },
+    "assets/IMG_MOCKUP_TOTE-v2.webp": {
+      "bytes": 217222,
+      "sha256": "c3eb4727b53807aadd55fb5b13b106ca5957984b6feea234cfd5a7ade947bad5"
+    },
+    "assets/IMG_PHOTO_01.webp": {
+      "bytes": 184676,
+      "sha256": "0b0c4fa27a9ed1a63f60d164b7e324e08b538a1a1bf76a5de5aaed6e08bc4f12"
+    },
+    "assets/IMG_PHOTO_02.webp": {
+      "bytes": 139366,
+      "sha256": "fc4001251aedfae4289a681afb75b08de429c3633c563962506dbb30075c105c"
+    },
+    "assets/IMG_PHOTO_03.webp": {
+      "bytes": 156924,
+      "sha256": "5f5bc7f880fc2bcd41d9edcfd3dee92dbefac1bfb88e3cb865659843b1fa04dd"
+    },
+    "assets/IMG_PHOTO_04.webp": {
+      "bytes": 319318,
+      "sha256": "01e4e9f2e252f92321d1d4da446b8588c9c4eb1f73f7b35569005e5836c17f0d"
+    },
+    "assets/IMG_PHOTO_05.webp": {
+      "bytes": 124064,
+      "sha256": "b051cf9cf7320273ea735460b2897e9749e216367c00d6e8586af684325568ef"
+    },
+    "assets/luka-bug.svg": {
+      "bytes": 1767,
+      "sha256": "3359c5157644c735af00f1a1e809466bab5e87280e83c0dff6c76c7abdd8d4d8"
+    },
+    "assets/luka-logo-full-cream-reference.png": {
+      "bytes": 153841,
+      "sha256": "3e10061f171c38dc3d63ba5d138069a9550fd47bd5ef7803afc449629cf4b002"
+    },
+    "assets/luka-logo-full-cream.svg": {
+      "bytes": 14633,
+      "sha256": "e683388d9e36a51f1c985b167acd7fcf3780785276cd73bfb4f0911390c48187"
+    },
+    "assets/luka-logo-full-reference.png": {
+      "bytes": 134869,
+      "sha256": "5e812b9d3c3c731da0cb644a7750a874e8f80a780f513e8933240fe30bcd75bc"
+    },
+    "assets/luka-logo-full.svg": {
+      "bytes": 14633,
+      "sha256": "f3ee58fe8eed89c2b626cfaeab9a81beb602c8acaccc9c7c91f4dafe5025d5ec"
+    },
+    "assets/luka-symbol-reference.png": {
+      "bytes": 115153,
+      "sha256": "1ca8d7c7c0cea9da7d85a051ff8133d55108f2bf5f7c3e01f3ab43ec3a297ea6"
+    },
+    "assets/luka-symbol.svg": {
+      "bytes": 338,
+      "sha256": "dff95032075c1a8829593ab9c00490c2d732c8adda74e73e281a8a54ce99fc93"
+    },
+    "assets/luka-wordmark-cream-reference.png": {
+      "bytes": 79384,
+      "sha256": "b8a0f063d16c53e685f3a7a20c525264e11a5344669526e81d53b428bbdd435a"
+    },
+    "assets/luka-wordmark-cream.svg": {
+      "bytes": 3095,
+      "sha256": "11fede102920647fab08191d88694ca02c7e261f3f06f66fc1f5109667debce5"
+    },
+    "assets/luka-wordmark-reference.png": {
+      "bytes": 63360,
+      "sha256": "f112e3495cfa833201517d99bc5f09cf7fa802e82cc17edb6d8a17dd08f1a4f2"
+    },
+    "assets/luka-wordmark.svg": {
+      "bytes": 3092,
+      "sha256": "962f3de8e196f7c7c872707075c0fb0e2af0a86aa51a426fae5a19a4b7c50476"
+    },
+    "fonts/cormorantgaramond/CormorantGaramond-Italic[wght].ttf": {
+      "bytes": 715644,
+      "sha256": "0f48ea6abb2084537854f7174c470991a463b13036309e3b50a81511611c530d"
+    },
+    "fonts/cormorantgaramond/CormorantGaramond[wght].ttf": {
+      "bytes": 1195560,
+      "sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+    },
+    "fonts/cormorantgaramond/OFL.txt": {
+      "bytes": 4387,
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+    },
+    "fonts/dmsans/DMSans-Italic[opsz,wght].ttf": {
+      "bytes": 285040,
+      "sha256": "22259c0cc8237221b80f44c76ba8d36e6bce3cda72779f5b2773643d499720ae"
+    },
+    "fonts/dmsans/DMSans[opsz,wght].ttf": {
+      "bytes": 240164,
+      "sha256": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d"
+    },
+    "fonts/dmsans/OFL.txt": {
+      "bytes": 4482,
+      "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+    },
+    "fonts/README.md": {
+      "bytes": 470,
+      "sha256": "586797dc427dbd80b2889f4afdc4bae4520e4871543db6117209ed52fd986480"
+    },
+    "index.html": {
+      "bytes": 7883837,
+      "sha256": "de392ed73723624d67c20f83b4e014271d02351ae4c24b07e7cc4005de518116"
+    },
+    "LICENSE": {
+      "bytes": 19053,
+      "sha256": "d07988f4be47912f75a73b44da8a9c0b602bf6c8ced69de858b848f379ecd973"
+    },
+    "LICENSE-CODE": {
+      "bytes": 1090,
+      "sha256": "11c20a0edf8bfe53bfa0795911ea49c02534fe8b07cc033dd9168ed29d5c5855"
+    },
+    "LOGO-INTEGRITY.md": {
+      "bytes": 893,
+      "sha256": "394f7ae2642362a443457a0175862e2a09a7ce1177b4c9593b837f3ab917e9d5"
+    },
+    "luka-brand.json": {
+      "bytes": 2176,
+      "sha256": "74efce13553d673322045a6a545399c3a75241295fbcf2b9ef6ec175086c80c5"
+    },
+    "README.md": {
+      "bytes": 2703,
+      "sha256": "fd06c86f87209b68307eea55acf2db2f80f868399d5178ff8e672a7b1334f0ea"
+    }
+  }
+}
